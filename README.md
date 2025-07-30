@@ -85,7 +85,7 @@ Open-source libraries and their contributors who made this project possible.
 
 For any questions, suggestions, or collaborations, feel free to reach out through GitHub Issues or connect with me via LinkedIn!
 
-www.linkedin.com/in/santhosh-govindarajan-5903b4151/
+
 
 
 
